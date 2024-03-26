@@ -1,0 +1,47 @@
+/* Body */
+body {
+    background-image: url("https://i.imgur.com/kR9g0qe.png");
+}
+
+/* Font Icon */
+.footer__wrapper .footer__section i {
+    color: #a85a00;
+}
+
+/* Link */
+.footer__wrapper li a {
+    color: #a85a00;
+}
+
+/* Link */
+.data-table div .torrent-search--list__name {
+    color: #a85a00;
+}
+
+/* Font Icon */
+.data-table .torrent-search--list__category i {
+    color: #a85a00;
+}
+
+/* Font Icon */
+.data-table div .fa-download {
+    color: #a85a00;
+}
+
+/* Link */
+.secondary-nav .nav-tab--active a {
+    color: #a85a00;
+}
+
+a {
+    color: #a85a00;
+}
+
+a:hover {
+    color: #fff;
+}
+
+.panel__header,
+.panel__heading {
+    color: #a85a00;
+}
